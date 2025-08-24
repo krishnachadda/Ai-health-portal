@@ -1,0 +1,5 @@
+{
+  "name": "AI Healthcare Symptom Checker",
+  "description": "An intelligent symptom checker that leverages AI to provide users with a preliminary analysis of their health symptoms, potential conditions, and recommended next steps.",
+  "requestFramePermissions": []
+}
